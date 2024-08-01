@@ -1,0 +1,43 @@
+# Random data for testing purposes
+
+# Example of a list
+random_list:
+  - "Apple"
+  - "Banana"
+  - "Cherry"
+
+# Example of nested objects
+nested_example:
+  fruit:
+    - name: "Apple"
+      color: "Red"
+      taste: "Sweet"
+    - name: "Lemon"
+      color: "Yellow"
+      taste: "Sour"
+
+# Example of a dictionary
+sample_dict:
+  name: "Test Data"
+  type: "Random"
+  count: 42
+
+# Example of a multi-line string
+multi_line_string: |
+  This is a
+  multi-line
+  string example
+  in YAML.
+
+# Example of various data types
+mixed_types:
+  integer: 123
+  float: 45.67
+  boolean: true
+  null_value: null
+
+# Example of a date
+date_example: 2024-08-01
+
+# Example of a timestamp
+timestamp_example: 2024-08-01T12:00:00Z
